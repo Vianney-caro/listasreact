@@ -1,0 +1,13 @@
+h1{
+    color:aquamarine;
+}
+
+#button {
+    background-color: beige;
+    color: black;
+    text-transform: uppercase;
+    width: 2000px;
+    height: 60px;
+    border-radius: 0;
+    
+}
